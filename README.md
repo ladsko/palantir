@@ -3,7 +3,7 @@
 ![00_Rückseite.png](/PNG_Preview/00_Rückseite.png?raw=true)
 
 # Kontext
-Dieses Kartenspiel entstand mit der Intention Doppelkopf in einem Fantasy-Setting zu tarnen ohne es beim Namen zu nennen um den Kreis potentieller Spieler zu erweitern.
+Dieses Kartenspiel entstand mit der Intention Doppelkopf in einem Fantasy-Setting zu tarnen um den Kreis potentieller Spieler zu erweitern.
 
 Erstellt mit [graphite.rs](https://editor.graphite.rs/) und [GIMP](https://www.gimp.org/). Karten können zum Beispiel über den [Meinspiel.de](https://www.meinspiel.de/) Online Konfigurator (55 Karten 59*91mm) bestellt werden.
 
