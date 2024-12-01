@@ -1,4 +1,4 @@
-> *"Der Hauptangriff war nach Süden abgelenkt, das ist wahr; und doch hätte Sauron mit seiner weit ausgestreckten rechten Hand im Norden schreckliches Unheil anrichten können, während wir Gondor verteidigten, hätten ihm König Brand und König Dáin nicht im Wege gestanden. Wenn ihr an die große Schlacht von Pelennor denkt, vergeßt nicht die Schlacht in Thal."* - Gandalf
+> *Der Hauptangriff war nach Süden abgelenkt, das ist wahr; und doch hätte Sauron mit seiner weit ausgestreckten rechten Hand im Norden schreckliches Unheil anrichten können, während wir Gondor verteidigten, hätten ihm König Brand und König Dáin nicht im Wege gestanden. Wenn ihr an die große Schlacht von Pelennor denkt, vergeßt nicht die Schlacht in Thal.* - Gandalf
 
 ![00_Rückseite.png](/PNG_Preview/00_Rückseite.png?raw=true)
 
@@ -11,9 +11,9 @@ Erstellt mit [graphite.rs](https://editor.graphite.rs/) und [GIMP](https://www.g
 
 # Inhalt
 - [48 Spielkarten + 7 Regel-Referenz-Karten](PNG.zip)
-- Spielregeln
+- [Spielregeln](#die-regeln)
 - [graphite.rs-Dateien](graphite.rs.zip) zur eigenen Modifikation
-- [Karten-Flavor-Texte](flavor.md)
+- [Karten Preview](preview.md) mit Herr der Ringe Lore
 
 # Das Spiel
 Ein Fluch liegt über Mittelerde - die Mächte des Bösen haben zugeschlagen und **Der Eine Ring** hat so manchen Charakter verdorben. Vertraue niemandem bis er seine Gesinnung offenbart.
@@ -28,12 +28,13 @@ Jetzt könnt auch ihr am **Ringkrieg** teilnehmen und versuchen die Ausgänge de
 **Palantír** wird immer zu viert gespielt. Optional kann bei einer fünften anwesenden Person der Geber jeweils aussetzen. Jeder Spieler hat eine Gesinnung: Gut oder Böse. Ob du im Team der **Gefährten** oder dem Team von **Saurons Auge** bist ändert sich zufällig von Runde zu Runde.
 
 ## Die Karten
-### Gut oder Böse?
-Alle Karten bis auf **Der Eine Ring** haben eine gute und eine böse Seite, welche meist direkte Kontrahenten in den Schlachten repräsentieren. Zunächst weißt du nicht welche Gesinnung deine Mitspieler und deren Karten haben. Erst wenn die Mitspieler zugeben durch **Saurons Auge** kontrolliert zu werden lichtet sich der Nebel des Krieges und es wird ersichtlich welche Mächte im Kampf siegen. Im Standardspiel spielen die Spieler im Besitz der Karte "Elrond / Nazgûl-Fürst" zusammen:
+Auch alle Karten (bis auf **Der Eine Ring**) haben eine gute und eine böse Seite. Zunächst weißt du nicht welche Gesinnung deine Mitspieler und deren Karten haben. Erst wenn die Mitspieler zugeben durch **Saurons Auge** kontrolliert zu werden lichtet sich der Nebel des Krieges und es wird ersichtlich welche Mächte im Kampf siegen.
+
+Im Standardspiel spielen die Spieler im Besitz der Karte "Elrond / Nazgûl-Fürst" zusammen:
 
 ![17_Gondor_Ringträger.png](/PNG_Preview/17_Gondor_Ringträger.png?raw=true)
 
-Auch auf manch anderen Karten findest du eine dritte Abbildung, siehe *Sonderkarten*.
+Auch auf manch anderen Karten findest du eine dritte Abbildung, siehe [Sonderkarten](#sonderkarten).
 
 ### Die Regionen
 Die Hauptschauplätze des Ringkriegs sind **Gondor**, **Rohan**, **Rhovanion** und **Mordor**.
@@ -63,13 +64,13 @@ Sollten sich beide Mordor-Artefakte (**Der eine Ring**) auf einer Hand befinden 
 
 Wird Trumpf aufgespielt muss - wenn möglich - mit Trumpf bedient werden. Wird Fehl aufgespielt muss - wenn möglich - mit einem Fehl dieser Region bedient werden, ansonsten darf mit Trumpf gestochen oder ein Fehl einer anderen Region abgelegt werden.
 
-Sollte ein *Vorbehalt* ausgerufen werden kann sich die Zusammensetzung der Trumpfkarten verändern (siehe unten).
+Sollte ein [Vorbehalt](#vorbehalte) ausgerufen werden kann sich die Zusammensetzung der Trumpfkarten verändern.
 
 ### Sonderkarten
-Diese Regeln gelten im normalen Spiel, dem *Sonderspiel: Unterwerfung* und dem *Sonderspiel: Bündnis*
-- **Saurons Auge**: Wer die Karte Gondor-Ringträger (**Elrond / Hexenkönig von Angmar**) auf der Hand hat ist im normalen Spiel Diener Saurons und spielt im Team. (Achtung: Geheim!) Sind beide Karten in einer Hand? Siehe *Sonderspiele: Bündnis*
+Diese Regeln gelten im normalen Spiel, dem [Vorbehalt: Unterwerfung](#unterwerfung) und dem [Vorbehalt: Bündnis](#bündnis)
+- **Saurons Auge**: Wer die Karte Gondor-Ringträger (**Elrond / Hexenkönig von Angmar**) auf der Hand hat ist im normalen Spiel Diener Saurons und spielt im Team. (Achtung: Geheim!) Sind beide Karten in einer Hand? Siehe [Vorbehalte: Bündnis](#bündnis)
 - **Balrog**: Die Rhovanion-Streitkräfte (**Thal & Erebor / Rhúnedain**) werden als Balrogs gespielt und sind im Standardspiel noch über den Ringträgern die mächtigste Karte
-- **Éowyn**: Im letzten Kampf wird die Karte Gondor-Erben (**Faramir / Gothmog**) zu Éowyn und kann einen Siegesmarker erspielen (siehe *Auswertung der Siegesmarker*)
+- **Éowyn**: Im letzten Kampf wird die Karte Gondor-Erben (**Faramir / Gothmog**) zu Éowyn und kann einen Siegesmarker erspielen (siehe [Auswertung der Siegesmarker](#auswertung-der-siegesmarker))
 - **Der Eine Ring**: Bist du im Besitz beider Mordor-Artefakte (**Der Eine Ring**), so musst du beim Ausspielen das Ringgedicht aussprechen. Nun schlägt der Ring sogar den Balrog.
 
 >*"Ein Ring, sie zu knechten, sie alle zu finden,
@@ -79,20 +80,25 @@ Diese Regeln gelten im normalen Spiel, dem *Sonderspiel: Unterwerfung* und dem *
 ![09_Gondor_Erbe.png](/PNG_Preview/09_Gondor_Erbe.png?raw=true)
 ![47_Mordor_Artefakt.png](/PNG_Preview/47_Mordor_Artefakt.png?raw=true)
 
-Hier findest du [Flavortexte](flavor.md) zu den Karten.
+Hier findest du [Hintergrundinformationen](preview.md) zu den Karten.
 
 ## Vorbehalte
 Vor dem ersten Aufspiel darf jeder einen Vorbehalt anmelden. Der Reihe nach wird im Uhrzeigersinn überprüft, ob es sich um Solo, Kapitulation, Unterwerfung oder Bündnis handelt.
-- **Solo**: Du spielst alleine.
+### Solo
+Du spielst alleine.
   - **Regionen-Solo**: Statt Mordor ist nun optional eine andere Region Trumpf, der Balrog bleibt unverändert die höchste Karte
   - **Ringträger-Solo**: Nur die Ringträger sind Trumpf
   - **Erben-Solo**: Nur die Erben sind Trumpf
   - **Fehl-Solo**: Es gibt keinen Trumpf
-- **Kapitulation**: Hast du fünf oder mehr Könige auf der Hand darfst du schmeißen und es wird neu gemischt
-- **Unterwerfung**: Hast du drei Trumpf oder weniger bietest du sie den anderen Verdeckt zum Tausch an. Ihr spielt nun unabhängig von den Augen als Saurons-Auge-Team zusammen
-- **Bündnis**: Hast du beide Augen in der Hand bestimmt der erste Stich in fremder Hand deinen Mitspieler. Optional kannst du es auch verheimlichen, keinen Vorbehalt anmelden und alleine spielen. Vor Beginn dies Spiels erhälst du als Bestechung von den drei anderen Mitspielern jeweils einen *Siegesmarker
+### Kapitulation
+Hast du fünf oder mehr Könige auf der Hand darfst du schmeißen und es wird neu gemischt
+### Unterwerfung
+Hast du drei Trumpf oder weniger bietest du sie den anderen Verdeckt zum Tausch an. Ihr spielt nun unabhängig von den Augen als Saurons-Auge-Team zusammen
+### Bündnis
+Hast du beide Augen in der Hand bestimmt der erste Stich in fremder Hand deinen Mitspieler. Optional kannst du es auch verheimlichen, keinen Vorbehalt anmelden und alleine spielen. Vor Beginn dies Spiels erhälst du als Bestechung von den drei anderen Mitspielern jeweils einen *Siegesmarker*
 
-Tritt eines der folgenden Ereignisse ein wird die nächste Runde als **Lembas-Runde** gespielt und alle Siegesmarken zählen doppelt.
+## Lembasrunde
+Tritt eines der folgenden Ereignisse ein wird die nächste Runde als **Lembas-Runde** gespielt und alle Siegesmarker zählen doppelt.
 - Solo verloren
 - Alle vier **Ringträger**-Karten in einem Stich
 - Alle vier **Erben**-Karten in einem Stich
@@ -124,7 +130,7 @@ Es werden alle Punkte gezählt. Insgesamt gibt es 240. Das Saurons-Auge-Team gew
 ## Varianten
 Es ist weit verbreitet ohne Hobbits zu spielen (Scharfes Spiel).
 - Es wird 3-4-3 ausgeteilt
-- befinden sich alle vier Rhovanion-Fehl in einem Stich ist das nächste Spiel auch eine *Lembas-Runde*
+- befinden sich alle vier Rhovanion-Fehl in einem Stich ist das nächste Spiel auch eine [Lembasrunde](#lembasrunde)
 
 ## Regel-Referenz-Karten
 ![49_Regionen_und_Klassen.png](/PNG_Preview/49_Regionen_und_Klassen.png?raw=true)
@@ -136,6 +142,34 @@ Es ist weit verbreitet ohne Hobbits zu spielen (Scharfes Spiel).
 ![55_Siegesmarker.png](/PNG_Preview/55_Siegesmarker.png?raw=true)
 
 Im Zweifel haben die [deutschen Turnierregeln](https://www.doko-verband.de/Regeln_Ordnungen.html) Recht.
+
+## Doppelkopf-Äquivalenzen
+
+- Farbe: Region
+  - Kreuz: Gondor
+  - Pik: Rohan
+  - Herz: Rhovanion
+  - Karo: Mordor
+- Kartenwert: Klasse
+  - Ass: Artefakt
+  - Zehn: Streitkraft
+  - König: König
+  - Dame: Ringträger
+  - Bube: Erbe
+  - Neun: Hobbit
+ 
+- Doppelkopf: Blutbad
+- Gegen die Alten: Gegen das Böse
+- Re-Dame: Saurons Auge
+- Fuchs: Der eine Ring
+- Schweinchen: Ringgedicht
+- Karlchen: Éowyn
+- Dulle: Balrog
+
+- Schmeißen: Kapitulation
+- Trumpfabgabe/Armut: Unterwerfung
+- Hochzeit: Bündnis
+- Bockrunde: Lembasrunde
 
 # Quellen:
 - Peter Jacksons Film-Trilogie
