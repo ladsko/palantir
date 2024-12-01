@@ -5,7 +5,7 @@
 # Kontext
 Dieses Kartenspiel entstand mit der Intention Doppelkopf in einem Fantasy-Setting zu tarnen ohne es beim Namen zu nennen um den Kreis potentieller Spieler zu erweitern.
 
-Erstellt mit graphite.rs und GIMP.
+Erstellt mit [graphite.rs](https://editor.graphite.rs/) und [GIMP](https://www.gimp.org/).
 
 # Inhalt
 - 48 Spielkarten
