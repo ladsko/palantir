@@ -6,4 +6,5 @@ plugins:
 - jekyll-remote-theme
 github:
   zip_url: https://palantir.ladsko.de/PNG.zip
+  tar_url: https://palantir.ladsko.de/graphite.rs.zip
   another_url: another value
