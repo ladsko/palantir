@@ -111,4 +111,7 @@ Keiner zweifelte die Thronfolge Isildurs Erben an. Nachdem Minas Tirith erfolgre
 Der ungeborene **Eldarion**, Sohn von Aragorn und Arwen, wird viele Jahre nach den Geschehnissen des Ringkrieges sein Erbe antreten und König von Gondor und Arnor sein. Als **Herumor** mit seinem Kult, dem Dunklen Baum, Sauron zurück ersehnt ist es Eldarion, der dies unterbinden wird. 
 ### Hobbits: Sam / Kankra
 ![07_Mordor_Hobbit.png](/PNG_Preview/07_Mordor_Hobbit.png?raw=true)
+
 Frodos bester Freund **Samweis Gamdschie** übernahm den Ring nach dem Angriff durch die Riesenspinne **Kankra** für eine Weile, lies sich von diesem nicht verleiten und gab ihn schließlich ohne Widerworte an Frodo zurück.
+
+[Home](/)
