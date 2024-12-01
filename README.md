@@ -163,8 +163,9 @@ Im Zweifel haben die [deutschen Turnierregeln](https://www.doko-verband.de/Regel
 - Re-Dame: Saurons Auge
 - Fuchs: Der eine Ring
 - Schweinchen: Ringgedicht
-- Karlchen: Éowyn
 - Dulle: Balrog
+- Karlchen: Éowyn
+
 
 - Schmeißen: Kapitulation
 - Trumpfabgabe/Armut: Unterwerfung
