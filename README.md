@@ -13,10 +13,9 @@ Erstellt mit [graphite.rs](https://editor.graphite.rs/) und [GIMP](https://www.g
 Doppelkopf: Herr der Ringe Edition
 
 # Inhalt
-- 48 Spielkarten
-- 7 Regel-Referenz-Karten
+- [48 Spielkarten + 7 Regel-Referenz-Karten](PNG.zip)
 - Spielregeln
-- graphite.rs-Dateien zur eigenen Modifikation
+- [graphite.rs-Dateien](graphite.rs.zip) zur eigenen Modifikation
 - [Karten-Flavor-Texte](flavor.md)
 
 # Das Spiel
@@ -129,6 +128,15 @@ Es werden alle Punkte gezählt. Insgesamt gibt es 240. Das Saurons-Auge-Team gew
 Es ist weit verbreitet ohne Hobbits zu spielen (Scharfes Spiel).
 - Es wird 3-4-3 ausgeteilt
 - befinden sich alle vier Rhovanion-Fehl in einem Stich ist das nächste Spiel auch eine *Lembas-Runde*
+
+## Regel-Referenz-Karten
+![49_Regionen_und_Klassen.png](/PNG_Preview/49_Regionen_und_Klassen.png?raw=true)
+![50_Vorbehalte.png](/PNG_Preview/50_Vorbehalte.png?raw=true)
+![51_Standardspiel.png](/PNG_Preview/51_Standardspiel.png?raw=true)
+![52_Solo.png](/PNG_Preview/52_Solo.png?raw=true)
+![53_Solo.png](/PNG_Preview/53_Solo.png?raw=true)
+![54_Sonderkarten.png](/PNG_Preview/54_Sonderkarten.png?raw=true)
+![55_Siegesmarker.png](/PNG_Preview/55_Siegesmarker.png?raw=true)
 
 Im Zweifel haben die [deutschen Turnierregeln](https://www.doko-verband.de/Regeln_Ordnungen.html) Recht.
 
