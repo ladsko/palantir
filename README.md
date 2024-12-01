@@ -9,6 +9,9 @@ Dieses Kartenspiel entstand mit der Intention Doppelkopf in einem Fantasy-Settin
 
 Erstellt mit [graphite.rs](https://editor.graphite.rs/) und [GIMP](https://www.gimp.org/).
 
+# PALANTÍR
+Doppelkopf: Herr der Ringe Edition
+
 # Inhalt
 - 48 Spielkarten
 - 7 Regel-Referenz-Karten
