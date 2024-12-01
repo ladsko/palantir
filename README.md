@@ -1,8 +1,6 @@
 > *"Der Hauptangriff war nach Süden abgelenkt, das ist wahr; und doch hätte Sauron mit seiner weit ausgestreckten rechten Hand im Norden schreckliches Unheil anrichten können, während wir Gondor verteidigten, hätten ihm König Brand und König Dáin nicht im Wege gestanden. Wenn ihr an die große Schlacht von Pelennor denkt, vergeßt nicht die Schlacht in Thal."* - Gandalf
 
-<p align="center">
-  <img src="/PNG_Preview/00_Rückseite.png">
-</p>
+![00_Rückseite.png](/PNG_Preview/00_Rückseite.png?raw=true)
 
 # Kontext
 Dieses Kartenspiel entstand mit der Intention Doppelkopf in einem Fantasy-Setting zu tarnen ohne es beim Namen zu nennen um den Kreis potentieller Spieler zu erweitern.
