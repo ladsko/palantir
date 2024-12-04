@@ -132,6 +132,11 @@ Es ist weit verbreitet ohne Hobbits zu spielen (Scharfes Spiel).
 - Es wird 3-4-3 ausgeteilt
 - befinden sich alle vier Rhovanion-Fehl in einem Stich ist das nächste Spiel auch eine [Lembasrunde](#lembasrunde)
 
+Diese Regeln orientieren sich an unserer DoKo-Runde. Es ist natürlich jedem selbst überlassen seine eigenen Regeln umzusetzen. Zum Beispiel:
+- Zweiter Balrog sticht den ersten
+- Pflichtsolo
+
+
 ## Regel-Referenz-Karten
 ![49_Regionen_und_Klassen.png](/PNG_Preview/49_Regionen_und_Klassen.png?raw=true)
 ![50_Vorbehalte.png](/PNG_Preview/50_Vorbehalte.png?raw=true)
@@ -158,7 +163,7 @@ Im Zweifel haben die [deutschen Turnierregeln](https://www.doko-verband.de/Regel
   - Bube: Erbe
   - Neun: Hobbit
  
-- Doppelkopf: Blutbad
+
 - Gegen die Alten: Gegen das Böse
 - Re-Dame: Saurons Auge
 - Fuchs: Der eine Ring
@@ -171,8 +176,12 @@ Im Zweifel haben die [deutschen Turnierregeln](https://www.doko-verband.de/Regel
 - Trumpfabgabe/Armut: Unterwerfung
 - Hochzeit: Bündnis
 - Bockrunde: Lembasrunde
+- Doppelkopf: Blutbad
 
-# Quellen:
+# Bildquellen:
 - Peter Jacksons Film-Trilogie
 - ChatGPT-ImageGenerator
-- tbd.
+- seeklogo.com
+- vecteezy.com
+- deviantart.com/jamesbousema
+- mastenarium.com
