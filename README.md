@@ -7,12 +7,12 @@ Dieses Kartenspiel entstand mit der Intention Doppelkopf in einem Fantasy-Settin
 
 ![overview.png](/PNG_Preview/overview.png?raw=true)
 
-Erstellt mit [graphite.rs](https://editor.graphite.rs/) und [GIMP](https://www.gimp.org/). Karten können zum Beispiel über den [Meinspiel.de](https://www.meinspiel.de/) Online Konfigurator (55 Karten 59*91mm) bestellt werden.
+Erstellt mit [graphite.rs](https://editor.graphite.rs/) und [GIMP](https://www.gimp.org/). Karten können zum Beispiel über den [Meinspiel.de](https://www.meinspiel.de/)-Online-Konfigurator (55 Karten 59*91mm) bestellt werden.
 
 # Inhalt
-- [48 Spielkarten + 7 Regel-Referenz-Karten](PNG.zip)
+- 48 Spielkarten + 7 Regel-Referenz-Karten [(ZIP-Download)](PNG.zip)
 - [Spielregeln](#die-regeln)
-- [graphite.rs-Dateien](graphite.rs.zip) zur eigenen Modifikation
+- graphite.rs-Dateien zur eigenen Modifikation [(ZIP-Download)](graphite.rs.zip)
 - [Karten Preview](preview.md) mit Herr der Ringe Lore
 
 # Das Spiel
